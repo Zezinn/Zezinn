@@ -1,7 +1,8 @@
 - 👋 Me chamo José Ricardo.
 - 👀 Interessado em desenvolvimento de softwares. Admirador e entusiasta da inteligência artificial.
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas.
-- 📫 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ricardo-borges-filho-0a7008219)
+- 📫 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-ricardo-borges-filho-0a7008219)](https://www.linkedin.com/in/jos%C3%A9-ricardo-borges-filho-0a7008219)
+
 
 
 <!---
